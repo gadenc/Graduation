@@ -1,0 +1,5 @@
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\bin\Release\DBUtility.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\bin\Release\DBUtility.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\obj\Release\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\obj\Release\DBUtility.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\obj\Release\DBUtility.pdb

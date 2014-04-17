@@ -1,0 +1,5 @@
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\bin\Release\RM.Common.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\bin\Release\RM.Common.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\obj\Release\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\obj\Release\RM.Common.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\obj\Release\RM.Common.pdb

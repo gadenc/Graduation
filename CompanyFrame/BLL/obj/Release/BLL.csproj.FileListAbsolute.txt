@@ -1,0 +1,13 @@
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\BLL.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\BLL.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\DAL.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\DBUtility.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\DTcms.Common.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\model.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\DAL.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\DBUtility.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\DTcms.Common.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\bin\Release\model.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\obj\Release\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\obj\Release\BLL.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\BLL\obj\Release\BLL.pdb

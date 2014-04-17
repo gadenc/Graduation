@@ -1,0 +1,10 @@
+E:\cyd\2014年3月\NET通用权限管理系统源代码含文档、数据库\src\RM.Common\bin\Debug\RM.Common.dll
+E:\cyd\2014年3月\NET通用权限管理系统源代码含文档、数据库\src\RM.Common\bin\Debug\RM.Common.pdb
+E:\cyd\2014年3月\NET通用权限管理系统源代码含文档、数据库\src\RM.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\cyd\2014年3月\NET通用权限管理系统源代码含文档、数据库\src\RM.Common\obj\Debug\RM.Common.dll
+E:\cyd\2014年3月\NET通用权限管理系统源代码含文档、数据库\src\RM.Common\obj\Debug\RM.Common.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\bin\Debug\RM.Common.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\bin\Debug\RM.Common.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\obj\Debug\RM.Common.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.Common\obj\Debug\RM.Common.pdb

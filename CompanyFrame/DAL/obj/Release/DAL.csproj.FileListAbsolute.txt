@@ -1,0 +1,11 @@
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\bin\Release\DAL.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\bin\Release\DAL.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\bin\Release\DBUtility.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\bin\Release\DTcms.Common.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\bin\Release\model.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\bin\Release\DBUtility.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\bin\Release\DTcms.Common.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\bin\Release\model.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\obj\Release\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\obj\Release\DAL.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DAL\obj\Release\DAL.pdb

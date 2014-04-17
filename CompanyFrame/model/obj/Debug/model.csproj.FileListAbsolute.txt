@@ -1,0 +1,10 @@
+E:\cyd\项目文件夹\201403\HKSite\model\bin\Debug\model.dll
+E:\cyd\项目文件夹\201403\HKSite\model\bin\Debug\model.pdb
+E:\cyd\项目文件夹\201403\HKSite\model\obj\Debug\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\HKSite\model\obj\Debug\model.dll
+E:\cyd\项目文件夹\201403\HKSite\model\obj\Debug\model.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\model\bin\Debug\model.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\model\bin\Debug\model.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\model\obj\Debug\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\CompanyFrame\model\obj\Debug\model.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\model\obj\Debug\model.pdb

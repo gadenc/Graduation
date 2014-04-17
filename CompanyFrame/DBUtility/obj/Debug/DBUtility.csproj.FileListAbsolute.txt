@@ -1,0 +1,15 @@
+E:\newlist\01-DCXT\SRC\Invest\DBUtility\bin\Debug\DBUtility.dll
+E:\newlist\01-DCXT\SRC\Invest\DBUtility\bin\Debug\DBUtility.pdb
+E:\newlist\01-DCXT\SRC\Invest\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\newlist\01-DCXT\SRC\Invest\DBUtility\obj\Debug\DBUtility.dll
+E:\newlist\01-DCXT\SRC\Invest\DBUtility\obj\Debug\DBUtility.pdb
+E:\cyd\项目文件夹\201403\HKSite\DBUtility\bin\Debug\DBUtility.dll
+E:\cyd\项目文件夹\201403\HKSite\DBUtility\bin\Debug\DBUtility.pdb
+E:\cyd\项目文件夹\201403\HKSite\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\HKSite\DBUtility\obj\Debug\DBUtility.dll
+E:\cyd\项目文件夹\201403\HKSite\DBUtility\obj\Debug\DBUtility.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\bin\Debug\DBUtility.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\bin\Debug\DBUtility.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\obj\Debug\DBUtility.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\DBUtility\obj\Debug\DBUtility.pdb

@@ -1,0 +1,13 @@
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\RM.DataBase.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\RM.DataBase.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\Interop.SQLDMO.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\RM.Common.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\Microsoft.Practices.Unity.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\bin\Release\RM.Common.pdb
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\obj\Release\ResolveAssemblyReference.cache
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\obj\Release\RM.DataBase.dll
+E:\cyd\项目文件夹\201403\CompanyFrame\RM.DataBase\obj\Release\RM.DataBase.pdb
